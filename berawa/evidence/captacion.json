@@ -1,0 +1,31 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "hotel-casa-morisca-granada",
+ "maps": {
+  "fecha": "2026-10-29T11:02:27+01:00",
+  "estado": "LEIDA",
+  "ficha": "Hotel Casa Morisca",
+  "nota": 4.6,
+  "coincide": {
+   "tel": true,
+   "web": true,
+   "dir": false
+  },
+  "url": "https://www.google.com/maps/place/Hotel+Casa+Morisca/@37.1797017,-3.589179,17z/data=!4m9!3m8!1s0xd71fcc8323b31e3:0x427cacbe62070ad8!5m2!4m1!1i2!8m2!3d37.1797017!4d-3.589179!16s%2Fg%2F1ynnq2xj5",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T11:02:27+01:00",
+  "veredicto": "MALA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "Ajxaris, S.L.",
+  "cif": "B18477190",
+  "fuente": "Web hotelcasamorisca.com, política de privacidad: «Denominación social: AJXARIS, S.L. NIF: B18477190 Domicilio principal: CUESTA DE LA VICTORIA, 9 – 18010 GRANADA», leída el 29/10/2026",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Un solo hotel (Hotel Boutique Casa Morisca, 14 habitaciones, Albaicín, Granada); la web no presenta otros establecimientos"
+ }
+}
