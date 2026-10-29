@@ -1,0 +1,55 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelcasamorisca.com/",
+ "read_at": "2026-10-29T15:12:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelcasamorisca.com/",
+   "sha256": "07507fe0a58e11b6f60979d256fec067a7735bb8a4c07d86b40f7b4844ee68ab",
+   "chars": 3964
+  },
+  {
+   "url": "https://www.hotelcasamorisca.com/habitaciones/",
+   "sha256": "b745e748f1e191c2f38f1fa579d87efa6369278b157692ee9bc5e297c07288ad",
+   "chars": 6391
+  },
+  {
+   "url": "https://www.hotelcasamorisca.com/localizacion-y-contacto/",
+   "sha256": "62560970bff4ec3cb7b3c844fdf2e3852d89c5e6c3ae83938b8adbd629440b0f",
+   "chars": 3729
+  },
+  {
+   "url": "https://www.hotelcasamorisca.com/politica-de-privacidad/",
+   "sha256": "c87cd85b55bd54425ec51254bfd80b8a571544b316758637e87e3a594fa6e467",
+   "chars": 13734
+  },
+  {
+   "url": "https://www.hotelcasamorisca.com/servicios/",
+   "sha256": "9732b49638f70ae99d46ab438f8c4c7f13f33615a14976069cbeba315e857781",
+   "chars": 4147
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelcasamorisca.com",
+  "https://www.hotelcasamorisca.com/aviso-legal/",
+  "https://www.hotelcasamorisca.com/en/",
+  "https://www.hotelcasamorisca.com/en/book-now/",
+  "https://www.hotelcasamorisca.com/en/granada/",
+  "https://www.hotelcasamorisca.com/en/la-alhambra/",
+  "https://www.hotelcasamorisca.com/en/location-and-contact/",
+  "https://www.hotelcasamorisca.com/en/my-reservation/",
+  "https://www.hotelcasamorisca.com/en/rooms/",
+  "https://www.hotelcasamorisca.com/en/semana-santa/",
+  "https://www.hotelcasamorisca.com/en/services/",
+  "https://www.hotelcasamorisca.com/en/vive-el-albaycin/",
+  "https://www.hotelcasamorisca.com/fr/",
+  "https://www.hotelcasamorisca.com/granada/",
+  "https://www.hotelcasamorisca.com/la-alhambra/",
+  "https://www.hotelcasamorisca.com/mi-reserva/",
+  "https://www.hotelcasamorisca.com/politica-de-cookies/",
+  "https://www.hotelcasamorisca.com/reservas/",
+  "https://www.hotelcasamorisca.com/semana-santa/",
+  "https://www.hotelcasamorisca.com/vive-el-albaycin/"
+ ]
+}
