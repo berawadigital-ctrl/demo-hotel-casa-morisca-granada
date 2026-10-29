@@ -1,0 +1,68 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-casa-morisca-granada",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T15:12:00+01:00",
+ "updated_at": "2026-10-29T15:20:00+01:00",
+ "business": {
+  "name": "Hotel Boutique Casa Morisca",
+  "legal_name": "Ajxaris, S.L.",
+  "registry_ids": [
+   "NIF B18477190"
+  ],
+  "url": "https://www.hotelcasamorisca.com/",
+  "domain": "hotelcasamorisca.com",
+  "municipality": "Granada",
+  "province": "Granada",
+  "address": "Cuesta de la Victoria, 9, Bajo · Albaicín · 18010 Granada",
+  "phones": [
+   "+34 958 221 100"
+  ],
+  "emails": [
+   "reservas@hotelcasamorisca.com"
+  ],
+  "sector": "hotel boutique en una casa morisca del Albaicín (Granada)"
+ },
+ "rating": {
+  "value": 4.6,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Casa+Morisca/@37.1797017,-3.589179,17z/data=!4m9!3m8!1s0xd71fcc8323b31e3:0x427cacbe62070ad8!5m2!4m1!1i2!8m2!3d37.1797017!4d-3.589179!16s%2Fg%2F1ynnq2xj5",
+  "date": "2026-10-29T11:02:27+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://www.hotelcasamorisca.com/reservas/",
+   "ca": "https://www.hotelcasamorisca.com/reservas/",
+   "en": "https://www.hotelcasamorisca.com/en/book-now/",
+   "fr": "https://www.hotelcasamorisca.com/en/book-now/"
+  },
+  "note": "Las reservas van a la pagina de reservas del propio hotel (hotelcasamorisca.com/reservas, que carga en un iframe su motor real de bookerclub; /en/book-now/ para ingles y frances); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.hotelcasamorisca.com/",
+  "date": "2026-10-29T15:08:52+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
