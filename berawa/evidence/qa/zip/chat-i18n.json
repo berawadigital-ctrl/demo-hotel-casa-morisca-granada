@@ -1,0 +1,447 @@
+{
+ "url": "http://127.0.0.1:36927/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 14 habitaciones: Doble estándar (en planta baja o alta), Doble superior, Doble superior plus, Doble ejecutiva, Doble Deluxe y Mirador,"
+    },
+    {
+     "q": "¿Tiene vistas a la Alhambra?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, algunas habitaciones tienen vistas a la Alhambra: la Mirador las tiene desde la habitación y desde el baño; la Deluxe y las superiores, "
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Está en Cuesta de la Victoria, 9, Bajo, Albaicín, 18010 Granada: al final de la Carrera del Darro, junto al paseo de los Tristes y frente a "
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hay parking privado en el exterior y un parking cubierto junto al hotel, ambos de pago y con reserva previa. Se puede llegar en coche ha"
+    },
+    {
+     "q": "¿Tienen desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hay desayuno buffet en la planta -1, de 7:30 a 11:00. Además, desde recepción te pueden servir bebidas y algo ligero a cualquier hora, e"
+    },
+    {
+     "q": "¿Hay traslado al aeropuerto?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, el hotel ofrece traslados en automóvil al aeropuerto y a cualquier punto que desees."
+    },
+    {
+     "q": "¿Qué es la Granada Card?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Si te alojas dos o más noches, el hotel gestiona la Granada Card Pernocta, que incluye la entrada a la Alhambra y a varios monumentos. Desde"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, hay wifi gratuito en todo el hotel y recepción 24 horas."
+    },
+    {
+     "q": "¿Quién restauró la casa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La restauró el arquitecto granadino Carlos Sánchez y recibió varios premios, entre ellos el Europa Nostra de 2001, año de apertura del hotel"
+    },
+    {
+     "q": "¿Puedo añadir una cama supletoria?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Solo en la Doble ejecutiva y la Doble Deluxe se puede añadir una tercera cama, con cargo extra, bajo petición y según disponibilidad. Las de"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 958 221 100 o escribir a reservas@hotelcasamorisca.com. Este asisten"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según su política de privacidad, el responsable es AJXARIS, S.L., NIF B18477190, con domicilio en Cuesta de la Victoria, 9, Granada."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 958 221 100 o escribir a reservas@hotelcasamorisca.com. Este asisten"
+    },
+    {
+     "q": "¿Tienen piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Tiene vistas a la Alhambra?",
+    "¿Hay parking?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 14 habitacions: Doble estàndard (a la planta baixa o alta), Doble superior, Doble superior plus, Doble executiva, Doble Deluxe i Mirador,"
+    },
+    {
+     "q": "Té vistes a l'Alhambra?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, algunes habitacions tenen vistes a l'Alhambra: la Mirador les té des de l'habitació i des del bany; la Deluxe i les superiors, vistes la"
+    },
+    {
+     "q": "On és?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "És a Cuesta de la Victoria, 9, Bajo, Albaicín, 18010 Granada: al final de la Carrera del Darro, al costat del passeig dels Tristes i davant "
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, hi ha pàrquing privat a l'exterior i un pàrquing cobert al costat de l'hotel, tots dos de pagament i amb reserva prèvia. Es pot arribar "
+    },
+    {
+     "q": "Teniu esmorzar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, hi ha esmorzar bufet a la planta -1, de 7:30 a 11:00. A més, des de recepció et poden servir begudes i alguna cosa lleugera a qualsevol "
+    },
+    {
+     "q": "Hi ha trasllat a l'aeroport?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, l'hotel ofereix trasllats en automòbil a l'aeroport i a qualsevol punt que vulguis."
+    },
+    {
+     "q": "Què és la Granada Card?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Si t'allotges dues nits o més, l'hotel gestiona la Granada Card Pernocta, que inclou l'entrada a l'Alhambra i a diversos monuments. Des de r"
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, hi ha wifi gratuït a tot l'hotel i recepció 24 hores."
+    },
+    {
+     "q": "Qui va restaurar la casa?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "La va restaurar l'arquitecte granadí Carlos Sánchez i va rebre diversos premis, entre ells l'Europa Nostra del 2001, any d'obertura de l'hot"
+    },
+    {
+     "q": "Puc afegir un llit supletori?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Només a la Doble executiva i la Doble Deluxe s'hi pot afegir un tercer llit, amb càrrec extra, a petició i segons disponibilitat. Les altres"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 958 221 100 o escriure a reservas@hotelcasamorisca.com. Aquest assiste"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Segons la seva política de privacitat, el responsable és AJXARIS, S.L., NIF B18477190, amb domicili a Cuesta de la Victoria, 9, Granada."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 958 221 100 o escriure a reservas@hotelcasamorisca.com. Aquest assiste"
+    },
+    {
+     "q": "Teniu piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Té vistes a l'Alhambra?",
+    "Hi ha pàrquing?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 14 rooms: Standard double (ground or upper floor), Superior double, Superior plus double, Executive double, Deluxe double and Mirador"
+    },
+    {
+     "q": "Does it have Alhambra views?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, some rooms have Alhambra views: the Mirador from both the room and the bathroom; the Deluxe and superior rooms have side views of the A"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "It is at Cuesta de la Victoria, 9, Bajo, Albaicín, 18010 Granada: at the end of the Carrera del Darro, next to the Paseo de los Tristes and "
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, there is private outdoor parking and a covered car park next to the hotel, both paid and on prior booking. You can drive to the door, b"
+    },
+    {
+     "q": "Do you serve breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, there is a buffet breakfast on floor -1, from 7:30 to 11:00. Reception can also serve drinks and light bites at any time, in the room, "
+    },
+    {
+     "q": "Is there an airport transfer?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, the hotel offers car transfers to the airport and anywhere you wish."
+    },
+    {
+     "q": "What is the Granada Card?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "If you stay two or more nights, the hotel arranges the Granada Card Pernocta, which includes entry to the Alhambra and several monuments. Re"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, there is free wifi throughout the hotel and 24-hour reception."
+    },
+    {
+     "q": "Who restored the house?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It was restored by Granada architect Carlos Sánchez and received several awards, including the Europa Nostra in 2001, the year the hotel ope"
+    },
+    {
+     "q": "Can I add an extra bed?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Only the Executive double and the Deluxe double can take a third bed, for an extra charge, on request and subject to availability. The other"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 958 221 100 or email reservas@hotelcasamorisca.com. This assistant does not confi"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to its privacy policy, the data controller is AJXARIS, S.L., tax ID B18477190, at Cuesta de la Victoria, 9, Granada."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 958 221 100 or email reservas@hotelcasamorisca.com. This assistant does not confi"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 221 100 · reservas@hotelcasamorisca.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Does it have Alhambra views?",
+    "Is there parking?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 14 chambres : Double standard (rez-de-chaussée ou étage), Double supérieure, Double supérieure plus, Double exécutive, Double Delu"
+    },
+    {
+     "q": "A-t-il vue sur l'Alhambra ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, certaines chambres ont vue sur l'Alhambra : la Mirador depuis la chambre et la salle de bain ; la Deluxe et les supérieures ont une vue"
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il se trouve Cuesta de la Victoria, 9, Bajo, Albaicín, 18010 Grenade : au bout de la Carrera del Darro, à côté du Paseo de los Tristes et fa"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking privé à l'extérieur et un parking couvert à côté de l'hôtel, tous deux payants et sur réservation. On peut arriver en"
+    },
+    {
+     "q": "Servez-vous le petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, il y a un petit-déjeuner buffet au niveau -1, de 7h30 à 11h00. La réception peut aussi servir boissons et en-cas à toute heure, en cham"
+    },
+    {
+     "q": "Y a-t-il un transfert aéroport ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, l'hôtel propose des transferts en voiture vers l'aéroport et où vous le souhaitez."
+    },
+    {
+     "q": "Qu'est-ce que la Granada Card ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Si vous séjournez deux nuits ou plus, l'hôtel gère la Granada Card Pernocta, qui inclut l'entrée à l'Alhambra et à plusieurs monuments. La r"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, il y a le wifi gratuit dans tout l'hôtel et une réception 24h/24."
+    },
+    {
+     "q": "Qui a restauré la maison ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Elle a été restaurée par l'architecte grenadin Carlos Sánchez et a reçu plusieurs prix, dont l'Europa Nostra en 2001, année d'ouverture de l"
+    },
+    {
+     "q": "Puis-je ajouter un lit supplémentaire ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Seules la Double exécutive et la Double Deluxe peuvent recevoir un troisième lit, avec supplément, sur demande et selon disponibilité. Les a"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 958 221 100 ou écrire à reservas@hotelcasamorisca.com. "
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon sa politique de confidentialité, le responsable est AJXARIS, S.L., NIF B18477190, domicilié Cuesta de la Victoria, 9, Grenade."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 958 221 100 ou écrire à reservas@hotelcasamorisca.com. "
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 221 100 · reservas@hotelcasamorisca.com."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 221 100 · reservas@hotelcasamorisca.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "A-t-il vue sur l'Alhambra ?",
+    "Y a-t-il un parking ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
